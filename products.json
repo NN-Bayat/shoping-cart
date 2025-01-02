@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "LD01 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/img1.png"
+    },
+    {
+        "id": 2,
+        "name": "LD02 LOUNGE CHAIR",
+        "price": 120,
+        "image": "image/img2.png"
+    },
+    {
+        "id": 3,
+        "name": "LD03 LOUNGE CHAIR",
+        "price": 100,
+        "image": "image/img3.png"
+    },
+    {
+        "id": 4,
+        "name": "LD04 LOUNGE CHAIR",
+        "price": 150,
+        "image": "image/img4.png"
+    },
+    {
+        "id": 5,
+        "name": "LD05 LOUNGE CHAIR",
+        "price": 110,
+        "image": "image/img5.png"
+    },
+    {
+        "id": 6,
+        "name": "LD06 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/img6.png"
+    },
+    {
+        "id": 7,
+        "name": "LD07 LOUNGE CHAIR",
+        "price": 220,
+        "image": "image/img7.png"
+    },
+    {
+        "id": 8,
+        "name": "LD08 LOUNGE CHAIR",
+        "price": 140,
+        "image": "image/img8.png"
+    },
+    {
+        "id": 9,
+        "name": "LD07 LOUNGE CHAIR",
+        "price": 80,
+        "image": "image/img9.png"
+    },
+    {
+        "id": 10,
+        "name": "LD07 LOUNGE CHAIR",
+        "price": 80,
+        "image": "image/img10.png"
+    },
+    {
+        "id": 11,
+        "name": "LD07 LOUNGE CHAIR",
+        "price": 180,
+        "image": "image/img11.png"
+    },
+    {
+        "id": 12,
+        "name": "LD07 LOUNGE CHAIR",
+        "price": 120,
+        "image": "image/img12.png"
+    },
+    {
+        "id": 13,
+        "name": "LD07 LOUNGE CHAIR",
+        "price": 150,
+        "image": "image/img13.png"
+    },
+    {
+        "id": 14,
+        "name": "LD07 LOUNGE CHAIR",
+        "price": 150,
+        "image": "image/img14.png"
+    },
+    {
+        "id": 15,
+        "name": "LD07 LOUNGE CHAIR",
+        "price": 135,
+        "image": "image/img15.png"
+    },
+    {
+        "id": 16,
+        "name": "LD07 LOUNGE CHAIR",
+        "price": 75,
+        "image": "image/img16.png"
+    }
+]
