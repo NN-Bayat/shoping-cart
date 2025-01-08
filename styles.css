@@ -13,6 +13,7 @@ body {
     text-align: center;
     padding-top: 1rem;
     transition: transform 0.3s;
+    position: relative;
 }
 
 svg {
@@ -31,7 +32,18 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 1.4rem;
+    padding-block: 1.4rem;
+    padding-inline: 12%;
+    background: hsl(210, 73%, 64%);
+    box-shadow: 0 3px 10px black;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    transition: all 0.5s ease;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
 }
 
 header .icon_card {
@@ -61,6 +73,7 @@ header .icon_card span {
 }
 
 .listProduct {
+    margin-top: 5rem;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 1rem;
@@ -87,10 +100,11 @@ header .icon_card span {
 }
 
 .listProduct .item button {
-    background-color: #353432;
+    background-color: #065dce;
     color: #eee;
+    height: 3.5rem;
     padding: 5px 10px;
-    border-radius: 1rem;
+    border-radius: .5rem;
     margin-top: 1rem;
     border: none;
     cursor: pointer;
@@ -198,6 +212,12 @@ body.showCard .container {
     .cardTab .listCard .item img {
         width: 120px;
         height: 120px;
+    }
+
+    header{
+        left: 0%;
+        right: 0%;
+        padding-inline: 5%;
     }
 }
 
